@@ -3,7 +3,8 @@ secrets.conf
 *.swp
 *.tmp
 printer-[0-9]*_[0-9]*.cfg
-*.bak
+klipper-backup.env.bak
 *.bkp
 *.csv
 Klipper_macros.zip
+ShakeTune_results
